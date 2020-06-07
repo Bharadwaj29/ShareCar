@@ -38,7 +38,7 @@ if($count == 1){
     <link href="css/bootstrap.min.css" rel="stylesheet">
       <link href="styling.css" rel="stylesheet">
       <link href='https://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
-      <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAvZ-ldNhm3xCAMY4zs16aFEik6CAyyD9g"></script>
+      <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key="Google maps Api key""></script>
       <style>
         #container{
             margin-top:120px;   
