@@ -21,7 +21,7 @@ include('remember.php');
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
       <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/sunny/jquery-ui.css">
       <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-      <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAvZ-ldNhm3xCAMY4zs16aFEik6CAyyD9g"></script>
+      <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key="Maps Api key"></script>
       <style>
           /*margin top for myContainer*/
           #myContainer {
